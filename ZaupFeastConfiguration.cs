@@ -34,15 +34,15 @@ namespace ZaupFeast
             MessageColor = "red";
             Items = new List<FeastItem>
 		    {
-			    new FeastItem(66, "Cloth", 10, new List<string>
+			    new FeastItem(17, "Military Drum", 10, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(43, "Military Ammunition Box", 10, new List<string>
+			    new FeastItem(490, "Chainsaw", 10, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(44, "Civilian Ammunition Box", 10, new List<string>
+			    new FeastItem(18, "Timberwolf", 10, new List<string>
 			    {
 				    "all"
 			    }),
@@ -50,7 +50,7 @@ namespace ZaupFeast
 			    {
 				    "all"
 			    }),
-			    new FeastItem(14, "Bottled Water", 10, new List<string>
+			    new FeastItem(1010, "Desert Military Helmet", 10, new List<string>
 			    {
 				    "all"
 			    }),
